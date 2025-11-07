@@ -1,0 +1,377 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "19cadf30ac0068be3908170af8f257f0"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/koudahy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/koudahy/index.html",
+        "type": "file",
+        "md5": "bf675d4bd96d72818f4aa0131e8f9d10"
+    },
+    {
+        "path": "authors/koudahy/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/koudahy/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/koudahy/page/2/index.html",
+        "type": "file",
+        "md5": "58acb08cc7a9f86933fb15816bc2a138"
+    },
+    {
+        "path": "authors/koudahy/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/koudahy/page/3/index.html",
+        "type": "file",
+        "md5": "4645ba96930c0a3e2beb9b0a1f893927"
+    },
+    {
+        "path": "discover-luxury-living-with-mobilia-cleopatra-usa-furniture-collection",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-luxury-living-with-mobilia-cleopatra-usa-furniture-collection/index.html",
+        "type": "file",
+        "md5": "4043cc510dc5681eb4bb67d467dabda3"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home/index.html",
+        "type": "file",
+        "md5": "9d37b7ec68c5bec1e67b836a2c63172e"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home-2/index.html",
+        "type": "file",
+        "md5": "f70b0119df6c496e285a4e2ac7043dfc"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-luxury-designs-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-luxury-designs-for-your-home/index.html",
+        "type": "file",
+        "md5": "1ae3ff4d09a1755b52a57982aec21248"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-usa/index.html",
+        "type": "file",
+        "md5": "1d30ba4c385be5610a23d219d935c87a"
+    },
+    {
+        "path": "discover-timeless-elegance-with-mobila-cleopatra-furniture-for-your-american-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-mobila-cleopatra-furniture-for-your-american-home/index.html",
+        "type": "file",
+        "md5": "fcd10ee1adc092e4102a570fded934eb"
+    },
+    {
+        "path": "discover-timeless-elegance-with-mobila-cleopatra-usa-furniture-that-transforms-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-mobila-cleopatra-usa-furniture-that-transforms-your-home/index.html",
+        "type": "file",
+        "md5": "ea4d4d2e82dd7f165f49c8024e3f9876"
+    },
+    {
+        "path": "discover-timeless-elegance-with-mobili-cleopatra-luxury-italian-furniture-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-mobili-cleopatra-luxury-italian-furniture-for-your-home/index.html",
+        "type": "file",
+        "md5": "ff192327a6334ced90beacea25a013aa"
+    },
+    {
+        "path": "elegant-living-with-mobilia-cleopatra-usa-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-living-with-mobilia-cleopatra-usa-furniture/index.html",
+        "type": "file",
+        "md5": "a1f191f888397f8e523eda04e75007a1"
+    },
+    {
+        "path": "elevate-your-home-decor-with-timeless-pieces-from-mobilia-cleopatra-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-decor-with-timeless-pieces-from-mobilia-cleopatra-usa/index.html",
+        "type": "file",
+        "md5": "c1b4d4930d63bb43c4033f772e332685"
+    },
+    {
+        "path": "elevate-your-home-decor-with-timeless-usa-furniture-from-mobilia-cleopatra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-decor-with-timeless-usa-furniture-from-mobilia-cleopatra/index.html",
+        "type": "file",
+        "md5": "64f6c08566bff456861a317b10e66970"
+    },
+    {
+        "path": "experience-luxury-living-with-mobilia-cleopatra-elegant-furniture-for-your-american-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/experience-luxury-living-with-mobilia-cleopatra-elegant-furniture-for-your-american-home/index.html",
+        "type": "file",
+        "md5": "1a6cdac11470399aa40181c0fc8dab1d"
+    },
+    {
+        "path": "explore-timeless-elegance-with-cleopatra-furniture-for-your-american-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/explore-timeless-elegance-with-cleopatra-furniture-for-your-american-home/index.html",
+        "type": "file",
+        "md5": "4841323fad8811d3d8c12b5cc0eba09b"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "5d69d9bf39d530ca02e24554e6a328ee"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "bf8f6d88d276d7f90aa02162b6027cb3"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "0b98817f33cb387ea1b064f34ee787cc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Sofa-Set-2xl.jpeg",
+        "type": "file",
+        "md5": "62ef79e60a1e6732e11568977fb9f684"
+    },
+    {
+        "path": "/media/website/responsive/Sofa-Set-lg.jpeg",
+        "type": "file",
+        "md5": "62ef79e60a1e6732e11568977fb9f684"
+    },
+    {
+        "path": "/media/website/responsive/Sofa-Set-md.jpeg",
+        "type": "file",
+        "md5": "62ef79e60a1e6732e11568977fb9f684"
+    },
+    {
+        "path": "/media/website/responsive/Sofa-Set-sm.jpeg",
+        "type": "file",
+        "md5": "d508e7a6c4b5a5d661aed7ae6eef81ea"
+    },
+    {
+        "path": "/media/website/responsive/Sofa-Set-xl.jpeg",
+        "type": "file",
+        "md5": "62ef79e60a1e6732e11568977fb9f684"
+    },
+    {
+        "path": "/media/website/responsive/Sofa-Set-xs.jpeg",
+        "type": "file",
+        "md5": "b7298f3683fe3243f7d2c6e1bd0a51e5"
+    },
+    {
+        "path": "/media/website/Sofa-Set.jpeg",
+        "type": "file",
+        "md5": "84919fa34cfaccd86a58ec35e8bef74c"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "550df5075bcd10fda519183e410d8069"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "f46f4c73ce3eb37122dd82fd4770aaf9"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "adcf5aa72dd43e09b9ac301141d484bc"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "81cf10c751fa1dc358db82316348687c"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "ed1eb188f5d65773ef64a3fb75e169de"
+    },
+    {
+        "path": "timeless-elegance-for-your-home-with-cleopatra-furniture-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-for-your-home-with-cleopatra-furniture-usa/index.html",
+        "type": "file",
+        "md5": "392b133f4eaaa436f75c8a66cbc9cf88"
+    },
+    {
+        "path": "transform-your-home-with-elegant-furniture-from-mobilia-cleopatra-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-home-with-elegant-furniture-from-mobilia-cleopatra-usa/index.html",
+        "type": "file",
+        "md5": "a1d1933e3e3b0b14bfdbf1ba8cbd6fed"
+    }
+]
